@@ -1,3 +1,10 @@
+# React Calculator
+
+Created a simple Calculator app using React JS. In which you can perform basic operations like
+addition, subtraction, multiplication, division and modulus.
+
+This app is hosted on https://iamabhi443.github.io/React_Calculator
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
